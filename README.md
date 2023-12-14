@@ -1,0 +1,3 @@
+Hej!
+
+Jag har den här koden som ska göra allt automatiskt åt dig, det du behöver göra är att installira alla paket via npm i. Sedan behöver du dubbellkolla att den har samma databas infromation som den du har. Du kör scriptet genom "node app.js", den hämtar allt åt dig och sedan lägga allt i tabellerna där dom ska vara.Sedan använder du Sample Queries som finns i database.sql filen. Då kan du se all data som finns. Jag har även gjort UML-skissen i workbench, jag lägger in den som screenshoot, om mitt betyg kan nås till VG via den och det är något fel så kan jag fixa den i powerpoint om du inte gillar screenshoot. Om mitt sätt inte funkar så hör gärna av dig så kan jag lösa allt i god tid... 
